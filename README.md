@@ -6,6 +6,9 @@ This project evaluates the efficiency of different queuing systems at a Chipotle
 
 ---
 
+>  **Note:** This project requires the [`queueinglib`](https://doc.omnetpp.org/omnetpp/manual/#sec:queueinglib) library from OMNeT++ to run the simulation files.  
+> Make sure it is **enabled in your project configuration** (`.nedfolders` and `Makefile`) before compiling.
+
 ## Designs Simulated
 
 ### Design 1: Dining-In Queue (Baseline)
