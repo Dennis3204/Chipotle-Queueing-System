@@ -55,7 +55,7 @@ This project evaluates the efficiency of different queuing systems at a Chipotle
 
 ### Summary Statistics (10 Runs Averaged)
 
-<h3>Confidence Interval Chart: </h3>
+<h4>Confidence Interval Chart: </h4>
 
 <p align="left">
   <img src="https://github.com/Dennis3204/Chipotle-Queueing-System/blob/main/Confidence%20Interval%20Chart.png?raw=true" 
