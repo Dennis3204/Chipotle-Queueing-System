@@ -85,8 +85,8 @@ This project evaluates the efficiency of different queuing systems at a Chipotle
 
 ## References
 
-- Sahni, R. (2013). *Chipotle Queuing System*. Academia.edu.  
-  https://www.academia.edu/5191558/Chipotle_Queuing_System
+[1] R. Sahni, "Chipotle Queuing System," *Academia.edu*, Nov. 22, 2013. [Online]. Available: [https://www.academia.edu/5191558/Chipotle_Queuing_System](https://www.academia.edu/5191558/Chipotle_Queuing_System)
+
 
 ---
 
